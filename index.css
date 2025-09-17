@@ -1,5 +1,5 @@
 body {
-  background: url("https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg") no-repeat center center fixed;
+  background: url("./images/bg-body.jpeg") no-repeat center center fixed;
   font-family: 'Poppins', sans-serif;
   background-size: cover;
   margin: 0;
@@ -10,7 +10,7 @@ body {
 
 /* Hero Section */
 #hero {
-  background: url("https://varietybuffalo.org/wp-content/uploads/2019/07/meat-1260x800.jpg") no-repeat center center;
+  background: url("./images/bg-banner.jpg") no-repeat center center;
   background-size: cover;
   height: 550px;
   width: 100%;
@@ -45,9 +45,7 @@ body {
   width: 100%;
   height: 400px;
   object-fit: contain;
-  /* no cropping */
   background: #fff;
-  /* optional, fills gaps if images are transparent */
   padding: 10px;
 }
 
