@@ -1,1 +1,1 @@
-URL: https://filsammy.github.io/home-page-exam/
+URL: https://filsammy.github.io/static-meatshop-homepage/
